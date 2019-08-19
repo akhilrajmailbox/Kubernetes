@@ -25,9 +25,9 @@ route table
 
 ### see the diagram:
 
-[VPC Subnet png 1]() 
+[VPC Subnet png 1](https://github.com/akhilrajmailbox/Kubernetes/blob/master/aws-eks/HA-Subnet.png) 
 
-[VPC Subnet png 2]()
+[VPC Subnet png 2](https://github.com/akhilrajmailbox/Kubernetes/blob/master/aws-eks/vpc_subnet.png)
 
 
 ## ingress-controller
