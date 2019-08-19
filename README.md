@@ -84,9 +84,9 @@ kubectl get --help
 
 #### dashboard installation
 
-[apache2-ldap Dashboard]()
+[apache2-ldap Dashboard](https://github.com/akhilrajmailbox/Kubernetes/tree/master/dashboard/dashboard-apache2-ldap)
 
-[haproxy-basic-auth Dashboard]()
+[haproxy-basic-auth Dashboard](https://github.com/akhilrajmailbox/Kubernetes/tree/master/dashboard/dashboard-haproxy)
 
 ```
 nano dashboard.yaml
