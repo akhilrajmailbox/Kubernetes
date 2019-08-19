@@ -4,15 +4,15 @@
 ## Docs links :
 
 
-[AWS k8s Cluster]()
+[AWS k8s Cluster](https://github.com/akhilrajmailbox/Kubernetes/tree/master/aws-eks)
 
-[GCP k8s Cluster]()
+[GCP k8s Cluster](https://github.com/akhilrajmailbox/Kubernetes/tree/master/gcp-gke)
 
-[K8s production]()
+[K8s production](https://github.com/akhilrajmailbox/Kubernetes/blob/master/kubernetes-production.pdf)
 
-[YAML template]()
+[YAML template](https://github.com/akhilrajmailbox/Kubernetes/tree/master/yaml-template)
 
-[K8s Dashboard]()
+[K8s Dashboard](https://github.com/akhilrajmailbox/Kubernetes/tree/master/dashboard)
 
 
 ## K8s Installation in ubuntu 16.04
